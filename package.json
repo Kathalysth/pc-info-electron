@@ -1,0 +1,15 @@
+{
+  "name": "pc-info-electron",
+  "version": "1.0.0",
+  "description": "PC - INFO",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Ehigimetor",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  }
+}
